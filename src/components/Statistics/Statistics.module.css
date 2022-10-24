@@ -1,0 +1,9 @@
+.statistics {
+  display: flex;
+  flex-direction: column;
+}
+
+.statistics span {
+  color: #61677c;
+  padding: 4px;
+}
